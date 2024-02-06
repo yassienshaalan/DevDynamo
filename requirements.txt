@@ -2,3 +2,7 @@ SpeechRecognition
 pytesseract
 Pillow
 requests  
+torch
+fairscale
+fire
+sentencepiece
